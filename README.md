@@ -1,5 +1,5 @@
 ### President
 ### Head of Engineering
-![image](./assets/abhay.jpg)
+<img src="./assets/abhay.jpg" alt="drawing" width="200"/>
 
 

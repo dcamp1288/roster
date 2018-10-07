@@ -2,6 +2,6 @@
 
 ### President
 ### Head of Engineering
-![image](./assets/logo_full.png)
+![image](./assets/abhay.png)
 
 

@@ -12,6 +12,11 @@ helped co-found AI@UW in 2017, and has since played a lead role in managing and 
 
 [Abhay Venkatesh](http://abhayvenkatesh.com) co-founded AI@UW in April, 2017, and served as the founding President for the club. In the past, he has interned and worked with [Facebook](https://facebook.com), [Stanford](https://stanford.edu), and [MIT](https://mit.edu). Currently, he is responsible for advising the club on operations, and heading the engineering efforts of the club. He is a research assistant for [Dr. Vikas Singh](http://www.biostat.wisc.edu/~vsingh/), doing work in Computer Vision and Machine Learning.
 
+### Head of Finance
+<img src="./assets/rakshith.jpg" alt="drawing" width="100"/>
+
+[Rakshith Padmanabha](https://www.linkedin.com/in/rakshith-p/) co-founded AI@UW in April, 2017, and is responsible to manage and budget funds for the club. In the past, he has interned and worked with [Zynga](https://www.zynga.com).
+
 ### Head of Marketing
 <img src="./assets/keshav.png" alt="drawing" width="100"/>
 

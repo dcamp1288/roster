@@ -12,12 +12,13 @@ helped co-found AI@UW in 2017, and has since played a lead role in managing and 
 
 [Abhay Venkatesh](http://abhayvenkatesh.com) co-founded AI@UW in April, 2017, and served as the founding President for the club. In the past, he has interned and worked with [Facebook](https://facebook.com), [Stanford](https://stanford.edu), and [MIT](https://mit.edu). Currently, he is responsible for advising the club on operations, and heading the engineering efforts of the club. He is a research assistant for [Dr. Vikas Singh](http://www.biostat.wisc.edu/~vsingh/), doing work in Computer Vision and Machine Learning.
 
+### Head of Marketing
+<img src="./assets/keshav.png" alt="drawing" width="100"/>
+
+[Keshav Sharma](https://www.linkedin.com/in/keshav1905/) co-founded AI@UW in 2017, and has been leading the club's marketing. He has mentored [Stanford's online course on Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng.  Keshav has also interned at [UW's IoT Research Center](https://iotcenter.engr.wisc.edu/) and [Pivotal](http://pivotal.io). Currently, he is working with [Google](https://google.com) to improve onboarding of students onto Cloud technologies. Upon graduation, Keshav will be joining [Pivotal](https://pivotal.io) as a product manager. 
+
 ### Engineering Manager
 <img src="./assets/eric.jpg" alt="drawing" width="100"/>
 
 Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for the [Kaggle Team](https://ai-club-uwmadison.github.io/projects/).
 
-### Head of Finance
-<img src="./assets/rakshith.jpg" alt="drawing" width="100"/>
-
-[Rakshith Padmanabha](https://www.linkedin.com/in/rakshith-p/) co-founded AI@UW in April, 2017, and is responsible to manage and budget funds for the club. In the past, he has interned and worked with [Zynga](https://www.zynga.com).

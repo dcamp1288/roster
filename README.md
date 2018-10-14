@@ -16,3 +16,8 @@ helped co-found AI@UW in 2017, and has since played a lead role in managing and 
 <img src="./assets/eric.jpg" alt="drawing" width="100"/>
 
 Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for the [Kaggle Team](https://ai-club-uwmadison.github.io/projects/).
+
+### Head of Finance
+<img src="./assets/rakshith.jpg" alt="drawing" width="100"/>
+
+[Rakshith Padmanabha](https://www.linkedin.com/in/rakshith-p/) co-founded AI@UW in April, 2017, and is responsible to manage and budget funds for the club. In the past, he has interned and worked with [Zynga](https://www.zynga.com).

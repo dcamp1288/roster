@@ -23,7 +23,7 @@ helped co-found AI@UW in 2017, and has since played a lead role in managing and 
 [Keshav Sharma](https://www.linkedin.com/in/keshav1905/) co-founded AI@UW in 2017, and has been leading the club's marketing. He has mentored [Stanford's online course on Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng.  Keshav has also interned at [UW's IoT Research Center](https://iotcenter.engr.wisc.edu/) and [Pivotal](http://pivotal.io). Currently, he is working with [Google](https://google.com) to improve onboarding of students onto Cloud technologies. Upon graduation, Keshav will be joining [Pivotal](https://pivotal.io) as a product manager. 
 
 ### Head of Business Development
-<img src="./assets/NickolasComeau.jpg" alt="drawing" width="100"/>
+<img src="./assets/nickolascomeau_upright.jpg" alt="drawing" width="100"/>
 
 Nickolas Comeau joined AI at UW in January, 2018, and was invited to the executive board during the following summer. He is particularly interested in computational biology and exploring machine learning through the lense of neuroscience. His current role in the organization is to assist in the management of a learning group on Tensorflow, assist with general administrative tasks, and explore possible sponsorship and fundraising opportunities.
 

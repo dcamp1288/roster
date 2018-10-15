@@ -30,7 +30,7 @@ Nickolas Comeau joined AI at UW in January, 2018, and was invited to the executi
 ### Engineering Manager
 <img src="./assets/eric.jpg" alt="drawing" width="100"/>
 
-Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for the [Kaggle Team](https://ai-club-uwmadison.github.io/projects/).
+Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for the [Kaggle Team](https://ai-club-uwmadison.github.io/projects_study-groups/).
 
 
 

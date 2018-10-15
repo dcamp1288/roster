@@ -5,6 +5,9 @@
 
 [Chris Endemann](https://www.linkedin.com/in/chris-endemann/) helped co-found AI@UW in 2017, and has since played a lead role in managing and directing the club's operations. His interest in AI/ML research stems primarily from his love for reverse engineering the neural algorithms controlling sensation (i.e. qualia), perception (i.e. categorization of qualia), memory processing, and decision-making behavior. Under the mentorship of [Dr. Matthew Banks](https://neuro.wisc.edu/staff/banks-matthew-i/) and [Dr. Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/), he is currently applying multivariate time series modeling techniques to reveal the neural connectivity dynamics underlying conscious and unconscious sensory processing. In his spare time, Chris enjoys leading the [Algorithmic Trading Team](https://ai-club-uwmadison.github.io/projects/) and the [Neuro-Inspired AGI](https://ai-club-uwmadison.github.io/projects/) study group.
 
+### President, Study Group Leader
+<img src="./assets/declan.jpg" alt="drawing", width="100"/>
+Declan Campbell joined AI@UW in the fall of 2017 and is the current club President. Declan is a sophomore majoring in computer science and neurobiology due to his interest in the intersection of artificial intelligence and neuroscience. In the past, Declan applied autoencoding neural networks to the task of unsupervised anomaly detection and worked to detect anomalies in non-stationary time-series data. 
 
 ### Head of Engineering
 <img src="./assets/abhay.jpg" alt="drawing" width="100"/>
